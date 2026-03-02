@@ -1,3 +1,4 @@
 <resources>
+    <string name="welcome_message">Welcome, %s!</string>
     <string name="app_name">me2</string>
 </resources>
